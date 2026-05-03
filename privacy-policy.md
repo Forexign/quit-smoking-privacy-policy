@@ -1,10 +1,10 @@
-# Privacy Policy - Sigaradan Kurtul
+# Privacy Policy - Stop Smoking
 
 Last Updated: April 29, 2026
 
-This Privacy Policy explains how Şükrü Taşkıran (“we”, “our”, or “us”) handles information when you use the Sigaradan Kurtul - Quit Smoking mobile application (“App”).
+This Privacy Policy explains how Şükrü Taşkıran (“we”, “our”, or “us”) handles information when you use the Stop Smoking: Quit Tracker mobile application (“Stop Smoking” or the “App”).
 
-Sigaradan Kurtul is a smoking cessation and habit tracking app. The App is designed to store your personal quit-smoking progress primarily on your own device. We do not operate user accounts, cloud sync, or a backend database for your personal smoking journal or progress data.
+Stop Smoking is localized in Turkish as Sigaradan Kurtul: Sigara Bırak. The App is a smoking cessation and habit tracking app designed to store your personal quit-smoking progress primarily on your own device. We do not operate user accounts, cloud sync, or a backend database for your personal smoking journal or progress data.
 
 ## 1. Information Stored Locally on Your Device
 
